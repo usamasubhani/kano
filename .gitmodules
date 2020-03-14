@@ -1,3 +1,6 @@
 [submodule "todo-client-angular"]
 	path = todo-client-angular
 	url = https://github.com/usamasubhani/todo-client-angular
+[submodule "backend"]
+	path = backend
+	url = https://github.com/usamasubhani/todo-webservice
