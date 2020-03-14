@@ -1,0 +1,3 @@
+[submodule "todo-client-angular"]
+	path = todo-client-angular
+	url = https://github.com/usamasubhani/todo-client-angular
